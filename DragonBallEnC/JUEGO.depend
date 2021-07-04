@@ -1,0 +1,1689 @@
+# depslib dependency file v1.0
+1522119002 source:c:\users\lluis\desktop\juego\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1266065414 c:\users\lluis\desktop\programas\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1522035470 source:c:\users\lluis\desktop\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035470 source:c:\users\lluis\desktop\juego\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522131609 source:c:\users\lluis\desktop\juego\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035470 source:c:\users\lluis\desktop\juego\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522131212 source:c:\users\lluis\desktop\juego\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522131469 source:c:\users\lluis\desktop\juego\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522741194 source:d:\juego2\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1266065414 c:\users\lluis\onedrive\documentos\programas\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1522729966 source:d:\juego2\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522461902 source:d:\juego2\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522383990 source:d:\juego2\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522782876 source:d:\juego2\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035472 source:d:\juego2\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522734982 source:d:\juego2\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522303452 source:d:\juego2\paginacion.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522340774 source:d:\juego2\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego2\ponesfera.c
+
+1523159862 source:c:\users\lluis\desktop\juego3\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523152303 source:c:\users\lluis\desktop\juego3\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523154525 source:c:\users\lluis\desktop\juego3\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522461902 source:c:\users\lluis\desktop\juego3\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522383990 source:c:\users\lluis\desktop\juego3\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523156645 source:c:\users\lluis\desktop\juego3\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035472 source:c:\users\lluis\desktop\juego3\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522340774 source:c:\users\lluis\desktop\juego3\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:c:\users\lluis\desktop\juego3\ponesfera.c
+
+1523152304 source:j:\juego4\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523154526 source:j:\juego4\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522461902 source:j:\juego4\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522383990 source:j:\juego4\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523156646 source:j:\juego4\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035472 source:j:\juego4\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522340774 source:j:\juego4\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego4\ponesfera.c
+
+1523236962 source:d:\juego4\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523152304 source:d:\juego4\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523154526 source:d:\juego4\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522461902 source:d:\juego4\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522383990 source:d:\juego4\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523156646 source:d:\juego4\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522035472 source:d:\juego4\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522340774 source:d:\juego4\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego4\ponesfera.c
+
+1523236962 source:j:\juego4\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525838001 source:c:\users\lluis\desktop\juego5\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1523152304 source:c:\users\lluis\desktop\juego5\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525838864 source:c:\users\lluis\desktop\juego5\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525797178 source:c:\users\lluis\desktop\juego5\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525653814 source:c:\users\lluis\desktop\juego5\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1524958262 source:c:\users\lluis\desktop\juego5\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525141466 source:c:\users\lluis\desktop\juego5\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525572842 source:c:\users\lluis\desktop\juego5\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:c:\users\lluis\desktop\juego5\ponesfera.c
+
+1526267316 source:j:\juego5\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525939374 source:j:\juego5\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526258140 source:j:\juego5\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526266810 source:j:\juego5\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525653814 source:j:\juego5\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525141466 source:j:\juego5\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525572842 source:j:\juego5\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego5\ponesfera.c
+
+1525940602 source:j:\juego5\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526264940 source:j:\juego5\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526275882 source:j:\juego5\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526264940 source:j:\juego5\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525997128 source:d:\juego5\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525997576 source:d:\juego5\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525838360 source:d:\juego5\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525939374 source:d:\juego5\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525975524 source:d:\juego5\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525997128 source:d:\juego5\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525797178 source:d:\juego5\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525653814 source:d:\juego5\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525940602 source:d:\juego5\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525141466 source:d:\juego5\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525572842 source:d:\juego5\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego5\ponesfera.c
+
+1525795612 source:c:\users\lluis\desktop\juego5\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525838359 source:c:\users\lluis\desktop\juego5\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525655834 source:c:\users\lluis\desktop\juego5\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526327874 source:d:\juego7\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526264940 source:d:\juego7\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526327628 source:d:\juego7\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525939374 source:d:\juego7\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526328876 source:d:\juego7\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526264940 source:d:\juego7\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526328830 source:d:\juego7\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525653814 source:d:\juego7\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525940602 source:d:\juego7\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525141466 source:d:\juego7\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1525572842 source:d:\juego7\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego7\ponesfera.c
+
+1526449348 source:d:\juego8\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego8\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego8\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:d:\juego8\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526566070 source:d:\juego8\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:d:\juego8\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:d:\juego8\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego8\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego8\ponesfera.c
+
+1526445136 source:d:\juego8\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526566146 source:d:\juego8\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:d:\juego8\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego8\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego8\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego8\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:j:\juego8\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526456422 source:j:\juego8\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:j:\juego8\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526444560 source:j:\juego8\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:j:\juego8\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:j:\juego8\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:j:\juego8\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego8\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego8\ponesfera.c
+
+1526567618 source:d:\juego9\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego9\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego9\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:d:\juego9\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526567554 source:d:\juego9\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:d:\juego9\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:d:\juego9\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:d:\juego9\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:d:\juego9\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego9\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego9\ponesfera.c
+
+1526567768 source:d:\juego9\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526928358 source:d:\juego10\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego10\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego10\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:d:\juego10\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526886058 source:d:\juego10\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:d:\juego10\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:d:\juego10\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:d:\juego10\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:d:\juego10\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:d:\juego10\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego10\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego10\ponesfera.c
+
+1526449348 source:j:\juego10\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego10\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:j:\juego10\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526964252 source:j:\juego10\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:j:\juego10\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:j:\juego10\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:j:\juego10\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:j:\juego10\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego10\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego10\ponesfera.c
+
+1526963964 source:j:\juego10\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:j:\juego10\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527021527 source:c:\users\lluis\desktop\juego13\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego13\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego13\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:c:\users\lluis\desktop\juego13\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527022505 source:c:\users\lluis\desktop\juego13\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:c:\users\lluis\desktop\juego13\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:c:\users\lluis\desktop\juego13\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:c:\users\lluis\desktop\juego13\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:c:\users\lluis\desktop\juego13\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:c:\users\lluis\desktop\juego13\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego13\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:c:\users\lluis\desktop\juego13\ponesfera.c
+
+1527021527 source:c:\users\lluis\desktop\juego14\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego14\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego14\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:c:\users\lluis\desktop\juego14\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527048265 source:c:\users\lluis\desktop\juego14\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:c:\users\lluis\desktop\juego14\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:c:\users\lluis\desktop\juego14\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:c:\users\lluis\desktop\juego14\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:c:\users\lluis\desktop\juego14\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:c:\users\lluis\desktop\juego14\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:c:\users\lluis\desktop\juego14\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:c:\users\lluis\desktop\juego14\ponesfera.c
+
+1527021528 source:j:\juego3\juego15\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juego15\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juego15\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:j:\juego3\juego15\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527048266 source:j:\juego3\juego15\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:j:\juego3\juego15\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:j:\juego3\juego15\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:j:\juego3\juego15\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:j:\juego3\juego15\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:j:\juego3\juego15\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juego15\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego3\juego15\ponesfera.c
+
+1527021528 source:d:\juego3\juego15\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego3\juego15\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego3\juego15\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:d:\juego3\juego15\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527084250 source:d:\juego3\juego15\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:d:\juego3\juego15\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:d:\juego3\juego15\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:d:\juego3\juego15\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:d:\juego3\juego15\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:d:\juego3\juego15\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:d:\juego3\juego15\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego3\juego15\ponesfera.c
+
+1527021528 source:j:\juego3\juegofinal\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juegofinal\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juegofinal\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445136 source:j:\juego3\juegofinal\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527084250 source:j:\juego3\juegofinal\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449900 source:j:\juego3\juegofinal\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526911966 source:j:\juego3\juegofinal\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526447144 source:j:\juego3\juegofinal\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526445822 source:j:\juego3\juegofinal\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526448206 source:j:\juego3\juegofinal\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1526449348 source:j:\juego3\juegofinal\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:j:\juego3\juegofinal\ponesfera.c
+
+1527283274 source:d:\juego3\juegofinal\movimiento perpri.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527278236 source:d:\juego3\juegofinal\colocaobje.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527278428 source:d:\juego3\juegofinal\compinters.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527275524 source:d:\juego3\juegofinal\fondo.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527278772 source:d:\juego3\juegofinal\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527278566 source:d:\juego3\juegofinal\hazmovimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527266586 source:d:\juego3\juegofinal\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527276038 source:d:\juego3\juegofinal\pintaesfera.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527275524 source:d:\juego3\juegofinal\pintaper.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527276388 source:d:\juego3\juegofinal\pintaperene.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1527278002 source:d:\juego3\juegofinal\pintatrans.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1522355894 source:d:\juego3\juegofinal\ponesfera.c
+
